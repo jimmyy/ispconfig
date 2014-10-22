@@ -112,7 +112,7 @@ class Util
     public static function var_dump( $var, $return = FALSE )
     {
         $html = '<pre style="margin-bottom: 18px;' .
-            'background: #f7f7f9;' .
+            'background: #FFFFFF;' .
             'border: 1px solid #e1e1e8;' .
             'padding: 8px;' .
             'border-radius: 4px;' .
