@@ -115,9 +115,9 @@ class Util
             'background: #FFFFFF;' .
             'border: 1px solid #e1e1e8;' .
             'padding: 8px;' .
-            'border-radius: 4px;' .
-            '-moz-border-radius: 4px;' .
-            '-webkit-border radius: 4px;' .
+            'border-radius: 8px;' .
+            '-moz-border-radius: 8px;' .
+            '-webkit-border radius: 8px;' .
             'display: block;' .
             'font-size: 12.05px;' .
             'white-space: pre-wrap;' .
